@@ -4,7 +4,7 @@ Motion sensors are devices used to detect and measure movement. They are commonl
 
 ## Image
 
-![Imge](IMG/IMG.png)
+![Imge](IMG/IMG.jpg)
 
 ## How to connect to a circuit
 
